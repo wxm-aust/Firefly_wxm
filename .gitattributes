@@ -1,2 +1,5 @@
 *.js linguist-language=astro
 * text=auto eol=lf
+
+# Windows 批处理文件必须保留 CRLF
+*.bat text eol=crlf
