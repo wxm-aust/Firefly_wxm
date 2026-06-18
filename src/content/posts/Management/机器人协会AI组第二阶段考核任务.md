@@ -4,7 +4,7 @@ published: 2024-04-14
 pinned: false
 description: 机器人协会AI组第二阶段考核任务
 tags: [协会,AI组]
-category: 管理项目
+category: 管理
 draft: false
 ---
 # 机器人协会AI组第二阶段考核任务
