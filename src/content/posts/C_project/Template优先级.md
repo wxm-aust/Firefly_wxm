@@ -3,7 +3,7 @@ title: Template优先级
 published: 2022-08-03
 pinned: false
 description: Template优先级
-tags: [C语言,语法]
+tags: [C/Cpp,语法]
 category: 学习项目
 draft: false
 ---

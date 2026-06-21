@@ -4,6 +4,7 @@ published: 2024-01-02
 tags: [STM32]
 category: 嵌入式
 author: H_Elden
+pinned: true
 draft: false
 ---
 

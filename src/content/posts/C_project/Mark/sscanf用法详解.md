@@ -3,7 +3,7 @@ title: sscanf用法详解
 published: 2022-07-26
 pinned: false
 description: sscanf用法详解
-tags: [C语言,项目]
+tags: [C/Cpp,项目]
 category: 学习项目
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 北极熊导航部署
-published: 2025-12-09
+published: 2026-02-16
 pinned: false
 description: 北极熊导航部署
 tags: [战队,导航]
@@ -96,7 +96,8 @@ rmuc_2026
 |-- model.config
 `-- model.sdf
 ```
-从~~cg组~~官方文件获得.dae
+
+从:spoiler[机构\cg组]官方文件获得.dae
 需要修改车的初始位置[xzy_pose](rmu_gazebo_simulator/rmu_gazebo_simulator/config/gz_world.yaml)和世界初始位置[pose frame](rmu_gazebo_simulator/rmu_gazebo_simulator/resource/models/rmuc_2026/model.sdf)
 用gazebo中的`pose`修改参数，启动仿真以启动重力来确定z值
 
