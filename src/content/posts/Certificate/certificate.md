@@ -1,11 +1,12 @@
 ---
 title: 证书集
-published: 2025-08-10
+published: 2026-04-10
 pinned: true
 tags: [项目]
 category: 作品集
 draft: false
-
+password: "123"
+passwordHint: "请与作者联系"
 ---
 ## “第二十四届全国大学生机器人大赛RoboMaster2025机甲大师高校联盟赛（山东站）” 3V3对抗赛二等奖 哨兵负责人
 ![个人奖项](./RM2025.jpg)
