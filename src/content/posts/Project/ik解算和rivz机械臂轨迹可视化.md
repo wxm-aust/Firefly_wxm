@@ -90,13 +90,9 @@ image: ./ik2.png
   
 
 | 节点 | 职责 |
-
 |------|------|
-
 | `robot_state_publisher` | 将 URDF 发布为 `/robot_description` 话题 |
-
 | `rect_motion_node` | 路径规划、IK 求解、关节状态发布 |
-
 | `rviz2` | 3D 可视化 |
 
   
@@ -756,15 +752,10 @@ self.path_pub.publish(self.path_msg)
   
 
 | 显示项 | 用途 |
-
 |--------|------|
-
 | Grid | XY 平面参考网格 |
-
 | RobotModel | 显示 UR3e 机械臂 3D 模型 |
-
 | Marker (`/rect_path_marker`) | 半透明矩形区域 |
-
 | Path (`/rect_path`) | 末端运动轨迹 |
 
   
